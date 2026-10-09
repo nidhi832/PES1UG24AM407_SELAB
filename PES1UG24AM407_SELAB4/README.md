@@ -1,9 +1,4 @@
-# Lab 4: VibeCoding — Real-Time Simple Platformer Game
-
-**Course:** Software Engineering Laboratory  
-**Student Name:** Srinidhi P  
-**SRN:** PES1UG24AM407  
-**Pair-Programming Partner:** Google Antigravity (Gemini 3.7 Flash)  
+Antigravity (Gemini 3.7 Flash)  
 **Main Submission Repo:** [nidhi832/PES1UG24AM407_SELAB](https://github.com/nidhi832/PES1UG24AM407_SELAB)  
 **Dedicated Game Repo:** [nidhi832/44_simple-platformer_SE_LAB4](https://github.com/nidhi832/44_simple-platformer_SE_LAB4)
 
@@ -118,9 +113,3 @@ PES1UG24AM407_SELAB4/
 
 ---
 
-## Submission Deliverables Checklist
-
-- [x] **Video (Before Coding):** [`before_coding.mp4`](before_coding.mp4) — Demonstrates baseline bugs (tunneling fall-through, missing death screen/sound).
-- [x] **Video (After Sorting Errors):** [`after_sorting_errors.mp4`](after_sorting_errors.mp4) — Demonstrates fixed continuous collision, audio effects, score counter, game-over screen, and difficulty replays.
-- [x] **Updated Code:** All 4 tasks completed, organized, and modularized under `game/` and `assets/`.
-- [x] **Chat History Document:** Complete AI pair-programming transcript exported as [`Lab4_Chat_History.pdf`](Lab4_Chat_History.pdf).
