@@ -1,4 +1,4 @@
-Antigravity (Gemini 3.7 Flash)  
+
 **Main Submission Repo:** [nidhi832/PES1UG24AM407_SELAB](https://github.com/nidhi832/PES1UG24AM407_SELAB)  
 **Dedicated Game Repo:** [nidhi832/44_simple-platformer_SE_LAB4](https://github.com/nidhi832/44_simple-platformer_SE_LAB4)
 
